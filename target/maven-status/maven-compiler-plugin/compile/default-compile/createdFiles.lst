@@ -1,0 +1,4 @@
+com\shop\checkout\ShoppingBasket.class
+com\shop\inventory\ShoppingItemImpl.class
+com\shop\inventory\ShoppingItem.class
+com\shop\checkout\CheckoutManager.class
